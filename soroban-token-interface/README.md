@@ -83,8 +83,6 @@ The **Soroban Token Interface** is a web-based application that interacts with a
 
 ## Development
 
-### Scripts
-
 - Start Development Server:
    ```bash
    npm run dev
@@ -103,7 +101,7 @@ The **Soroban Token Interface** is a web-based application that interacts with a
 ---
 
 ## File Structure
-    ```bash
+    
     soroban-token-interface/
     ├── app/
     │   ├── globals.css
@@ -122,7 +120,7 @@ The **Soroban Token Interface** is a web-based application that interacts with a
     ├── public/
     ├── styles/
     └── ...
-    ```
+    
 
 ---
 
